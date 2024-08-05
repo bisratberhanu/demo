@@ -10,3 +10,8 @@ this is bisre second line
 this is kidus second line
 
 This is hermon's line
+
+I am doing things here that dont create a merge conflict 
+
+
+another line for checking
